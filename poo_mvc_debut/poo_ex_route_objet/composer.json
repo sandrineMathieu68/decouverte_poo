@@ -1,0 +1,13 @@
+{
+    "name": "stagiaire/poo_mvc_route",
+    "authors": [
+        {
+            "name": "sand ma",
+            "email": "sandrine.m@codeur.online"
+        }
+    ],
+    "require": {
+        "altorouter/altorouter": "^1.2",
+        "twig/twig": "^2.4"
+    }
+}
